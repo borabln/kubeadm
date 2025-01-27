@@ -1,0 +1,2 @@
+# kubeadm
+ubuntu kubeadm kurulumu
